@@ -1,58 +1,105 @@
 <div align="center">
-Muhammad Awais Mahroof
-Full Stack Developer
 
-Typing SVG
+# Muhammad Awais Mahroof
 
-<p> <a href="mailto:awais7869.mm@gmail.com"> <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/muhammad-awais-mahroof-855604295" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/awaismalik001" target="_blank"> <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p> </div>
-👋 About Me
-🎓 BS Computer Science student at National Excellence Institute (2026 – 2029)
-💼 Full Stack Developer Intern at Khan Flour & General Mills (Jul 2025 – Present)
-💻 Freelance Frontend Designer on Fiverr (Apr 2024 – Present)
-📍 Sangjani, Islamabad, Pakistan
+### BS Computer Science Student · Full Stack Developer
 
-I'm a full stack developer who enjoys building web and cross-platform applications end to end — from backend APIs to polished, responsive frontends. Currently deepening my backend and AI engineering skills, and always looking for the next thing to learn.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter+%7C+React;Backend+Development+%7C+Python+%7C+FastAPI+%7C+Express.js;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Building+Web+%26+Cross-Platform+Apps;Always+learning+something+new" alt="Typing SVG" />
 
-💼 Work Experience
+<br>
 
-Full Stack Developer Intern · Khan Flour & General Mills Jul 2025 – Present
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-awais-mahroof-855604295)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais7869.mm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaismalik001)
 
-Freelance Frontend Designer · Fiverr Apr 2024 – Present
+</div>
 
-🚀 Featured Projects
-<table> <tr> <th>Project</th> <th>Description</th> <th>Tech Stack</th> </tr> <tr> <td><b><a href="https://github.com/awaismalik001/reconnect-physio" target="_blank">Reconnect - Physiotherapy Center</a></b></td> <td>Reconnect Physio transforms everyday clinic workflows into a seamless, high-efficiency digital experience—empowering practitioners to focus on what matters most: patient recovery.</td> <td> <img src="https://img.shields.io/badge/React_19-2563EB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vite_8-2563EB?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS_v4-2563EB?style=flat-square&logo=tailwindcss&logoColor=white"/><br/> <img src="https://img.shields.io/badge/React_Router_v7-2563EB?style=flat-square&logo=reactrouter&logoColor=white"/> <img src="https://img.shields.io/badge/TanStack_Query_v5-2563EB?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-2563EB?style=flat-square&logo=axios&logoColor=white"/><br/> <img src="https://img.shields.io/badge/Recharts-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Lucide_React-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/date--fns-2563EB?style=flat-square"/><br/> <img src="https://img.shields.io/badge/React_Hot_Toast-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/React_Hook_Form-2563EB?style=flat-square&logo=reacthookform&logoColor=white"/> </td> </tr> </table>
+<br>
 
-More projects coming soon 🚧
+## 🧑‍💻 About Me
 
-🛠️ Tech Stack
+- 🎓 BS Computer Science student at **National Excellence Institute** (2026 – 2029)
+- 💼 Full Stack Developer Intern at **Khan Flour & General Mills** (Jul 2025 – Present)
+- 💻 Freelance **Frontend Designer** on Fiverr (Apr 2024 – Present)
+- 📍 Sangjani, Islamabad, Pakistan
+- 📫 **awais7869.mm@gmail.com**
 
-Languages
+Full stack developer who enjoys building web and cross-platform applications end to end — from backend APIs to polished, responsive frontends. Currently deepening backend and AI engineering skills, and always looking for the next thing to learn.
 
-<p> <img src="https://skillicons.dev/icons?i=java,python,flutter,cpp" /> </p>
+<br>
 
-Frontend / Web
+## 💼 Experience
 
-<p> <img src="https://skillicons.dev/icons?i=react,nodejs" /> </p>
+**Full Stack Developer Intern — Khan Flour & General Mills**
+*July 2025 – Present*
+Full stack development work as part of the company's internal engineering team.
 
-Backend & Database
+**Freelance Frontend Designer — Fiverr**
+*April 2024 – Present*
+Designing and building frontend interfaces for clients on a freelance basis.
 
-<p> <img src="https://skillicons.dev/icons?i=fastapi,express,postgres" /> <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+<br>
 
-Tools
+## 🚀 Featured Projects
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,firebase" /> </p>
-🎯 Top Skills
+<table>
+<tr>
+<td width="100%" valign="top">
 
-Team Collaboration  ·  Software Systems Engineering  ·  Backend Development  ·  Backend AI Engineering  ·  Database Management  ·  Problem Solving
+### 🩺 [Reconnect — Physiotherapy Center](https://github.com/awaismalik001/reconnect-physio)
+Reconnect Physio transforms everyday clinic workflows into a seamless, high-efficiency digital experience—empowering practitioners to focus on what matters most: patient recovery.
 
-📜 Certifications
-Certificate in IT
-Graphic Designing
-Claude 101
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=awaismalik001&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333&bg_color=ffffff" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaismalik001&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaismalik001&layout=compact&hide_border=true&title_color=2563EB&text_color=333333&bg_color=ffffff" alt="Top Languages" height="165"/> </div>
+`React 19` `Vite 8` `Tailwind CSS v4` `React Router v7` `TanStack Query v5` `Axios` `Recharts` `Lucide React` `date-fns` `React Hot Toast` `React Hook Form`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📁 View all repositories</b></summary>
+<br>
+Check out the full list on my <a href="https://github.com/awaismalik001?tab=repositories">repositories tab</a>.
+</details>
+
+<br>
+
+## 🧰 Tech Stack
+
 <div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,flutter,cpp,react,nodejs,fastapi,express,postgres,git,github,vscode,androidstudio,postman,firebase" />
+</div>
 
-📫 Reach me at awais7869.mm@gmail.com
+<br>
 
+**Languages:** Java · Python · Flutter · C++
+**Frontend/Web:** React · Node.js
+**Backend:** Python (FastAPI) · Express.js · SQL · PostgreSQL
+**Tools:** Git & GitHub · VS Code · Android Studio · Postman · Firebase
+
+<br>
+
+## 🏆 Top Skills
+
+`Team Collaboration` · `Software Systems Engineering` · `Backend Development` · `Backend AI Engineering` · `Database Management` · `Problem Solving`
+
+<br>
+
+## 📜 Certifications
+
+- Certificate in IT
+- Graphic Designing
+- Claude 101
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=awaismalik001&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+<i>Learning, building, and always chasing the next skill.</i>
 </div>
