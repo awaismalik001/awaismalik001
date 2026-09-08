@@ -49,7 +49,10 @@ Designing and building frontend interfaces for clients on a freelance basis.
 ### 🩺 [Reconnect — Physiotherapy Center](https://github.com/awaismalik001/reconnect-physio)
 Reconnect Physio transforms everyday clinic workflows into a seamless, high-efficiency digital experience—empowering practitioners to focus on what matters most: patient recovery.
 
-`React 19` `Vite 8` `Tailwind CSS v4` `React Router v7` `TanStack Query v5` `Axios` `Recharts` `Lucide React` `date-fns` `React Hot Toast` `React Hook Form`
+**Frontend:** `React 19` `Vite` `Tailwind CSS v4` `React Query`
+**Backend:** `Node.js` `Express.js`
+**Database:** `MongoDB` `Mongoose`
+**Auth & Docs:** `JWT` `Bcrypt` `Multer` `PDFKit`
 
 </td>
 </tr>
