@@ -1,9 +1,9 @@
 <div align="center">
 
-# Muhammad Awais Mahroof
+<!-- Upload your video to your GitHub repository and replace the src link below. -->
+<video src="1.mp4" width="100%" autoplay loop muted playsinline></video>
 
-### BS Computer Science Student · Full Stack & Cross Platform Developer
-
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Application+Developer+%7C+Java+%7C+Python+%7C+Flutter+%7C+React;Backend+Development+%7C+Python+%7C+FastAPI+%7C+Express.js;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Building+Web+%26+Cross-Platform+Apps;Always+learning+something+new" alt="Typing SVG" />
 
